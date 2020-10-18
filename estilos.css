@@ -28,6 +28,19 @@ body
     padding: 0;
 }
 
+#cite
+{
+    color: black;
+    text-align: right;
+    vertical-align: text-bottom;
+    font-style: italic;
+    font-size: x-small;
+    margin: 1em;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    padding: 0.5em;
+}
+
 #container
 {
     width: 70%;
